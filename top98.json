@@ -1,10 +1,10 @@
 {
-  "spider": "./top98_1.jar",
+  "spider": "https://gitee.com/why013/tv/blob/master/top98_1.jar",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://gitee.com/why013/tv/blob/master/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
